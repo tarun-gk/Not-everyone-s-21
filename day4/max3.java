@@ -22,6 +22,7 @@ public class max3 {
         {
             System.out.println("C is Greater");
         }
+        sc.close();
     }
     
 }

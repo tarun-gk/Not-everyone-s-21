@@ -19,6 +19,6 @@ public class temp {
       else{
         System.out.println("Freezing");
       }
-
-}
+      var.close();
+     }
 }
