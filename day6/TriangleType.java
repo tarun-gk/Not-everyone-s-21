@@ -17,5 +17,6 @@ public class TriangleType {
         } else {
             System.out.println("Scalene");
         }
+        sc.close();
     }
 }
