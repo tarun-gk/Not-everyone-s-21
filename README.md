@@ -11,13 +11,7 @@ Welcome to my personal coding workspace! This repository is dedicated entirely t
 
 ---
 
-## 🛠️ Tech Stack & Environment
 
-![Java Version](https://shields.io)
-![Version Control](https://shields.io)
-![Platform](https://shields.io)
-
----
 
 ## 📂 Core Practice Areas
 
