@@ -44,8 +44,6 @@ java Main
 ## 👤 Author
 
 **G. KALI TARUN**  
-[![GitHub Profile](https://shields.io)](https://github.com)
-
 * **Language:** Java ☕
 * **Version Management:** Git & GitHub
 
