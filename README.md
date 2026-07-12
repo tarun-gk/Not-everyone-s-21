@@ -4,7 +4,7 @@ Welcome to my personal coding challenge repository! This project tracks my daily
 
 ---
 
-## 🛠️ Built With
+
 # 🚀 Java Practice Arena
 
 Welcome to my personal coding workspace! This repository is dedicated entirely to sharpening my Java logic skills, mastering core object-oriented programming concepts, and practicing problem-solving techniques.
