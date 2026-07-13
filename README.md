@@ -49,10 +49,3 @@ java Main
 
 ---
 
-
----
-
-## 👤 Author
-
-* **G. KALI TARUN** 
-* GitHub: [@tarun-gk](https://github.com)
