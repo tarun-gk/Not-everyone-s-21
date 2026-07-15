@@ -43,7 +43,7 @@ java Main
 
 ## 👤 Author
 
-**G.KALI TARUN**  
+**GADADASU KALI TARUN**  
 * **Language:** Java ☕
 * **Version Management:** Git & GitHub
 
