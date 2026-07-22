@@ -39,13 +39,5 @@ javac Main.java
 java Main
 ```
 
----
 
-## 👤 Author
-
-**GADADASU KALI TARUN**  
-* **Language:** Java ☕
-* **Version Management:** Git & GitHub
-
----
 
